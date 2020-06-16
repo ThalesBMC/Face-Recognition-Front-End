@@ -1,1 +1,1 @@
-My FaceRecognition project using React,Node and postgresql.
+My FaceRecognition Front end project using React.
