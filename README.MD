@@ -10,5 +10,5 @@ My website https://facerecognitionreactfront.herokuapp.com/
 
 4- npm start.
 
-### `If you liked please leave the star!`
+### `If you liked, please leave the star!`
 
